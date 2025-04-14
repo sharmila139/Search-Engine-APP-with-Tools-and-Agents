@@ -16,12 +16,4 @@ This project is a smart chatbot that combines **LLaMA3 (via Groq)**, **LangChain
 - 📤 Live streaming of answers with Streamlit UI
 - 🔌 Easy-to-extend modular design
 
----
 
-## 🛠️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ai-search-chatbot.git
-cd ai-search-chatbot
